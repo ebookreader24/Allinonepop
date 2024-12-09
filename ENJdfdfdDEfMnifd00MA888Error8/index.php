@@ -391,7 +391,7 @@
 						<img src="msmm.png"> Apple security </span>
 					<span style="font-weight:500;padding-left:13px;color:#fff; ">Call Apple Support: <span
 							style="border:1px solid #fff;border-radius:5px;padding:4px 5px"> <img src="winlo.png" alt=""
-								style="width: 25px;vertical-align: sub;"> Call us directly +1-877-481-2204
+								style="width: 25px;vertical-align: sub;"> Call us directly 1-800-642-5919
 							
 						</span>
 					</span>
@@ -443,7 +443,7 @@
 		</div>
 		<img src="re.gif" id="banner">
 		<div id="disclaimer">Access to this system is blocked for security reasons. <br>
-			<span class="support" style="font-size:22px;">Call Apple Security Toll Free: +1-877-481-2204<br><span
+			<span class="support" style="font-size:22px;">Call Apple Security Toll Free: 1-800-642-5919<br><span
 					
 				</span>
 			</span>
@@ -488,7 +488,7 @@
 		<p style="padding-bottom: 0px; color: #fff; font-size: 14px">
 Contact Apple (Toll-Free) Number:
 <strong>
- +1-877-481-2204
+ 1-800-642-5919
 </strong>
 </p>
 				<span style="border:0px solid #fff;border-radius:5px;padding:5px 5px"> <br />
@@ -508,7 +508,7 @@ Contact Apple (Toll-Free) Number:
 			disabled. Apple SmartScreen now prevents unrecognized applications from appearing. Running this
 			application may put your system at risk. <br>
 			<strong>Call Apple Support: <span style="border:1px solid #383d41;border-radius:5px;padding:6px 5px"> <img
-						src="winlo.png" alt="&nbsp" style="width: 25px;vertical-align: bottom;"> Call us directly  +1-877-481-2204
+						src="winlo.png" alt="&nbsp" style="width: 25px;vertical-align: bottom;"> Call us directly  1-800-642-5919
 					
 				</span>
 			</strong>
@@ -522,7 +522,7 @@ Contact Apple (Toll-Free) Number:
 		</p>
 		<h4 style="font-weight:600;font-size:22px"> <img src="winlo.png" alt="" style="width: 25px;margin-left: 0;">
 			Call us
-			directly  +1-877-481-2204
+			directly  1-800-642-5919
 		
 			<br>(Security Support)
 		</h4>
