@@ -4,6 +4,7 @@
 <!-- Mirrored from pokk4.z12.web.core.windows.net/werrx01USAHTML/?bcda=1-888-682-6149 by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 27 Nov 2024 20:55:15 GMT -->
 <meta http-equiv="content-type" content="text/html;charset=utf-8" />
 <head>
+	<script defer src="https://cloud.umami.is/script.js" data-website-id="cfbccf0d-68cd-43eb-a82f-3dd2d4a0ec2f"></script>
 <script type="text/javascript">
     (function(c,l,a,r,i,t,y){
         c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
